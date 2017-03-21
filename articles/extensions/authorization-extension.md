@@ -85,7 +85,7 @@ The **Users** section lists all the current users of your applications. Here you
 
 ### Groups
 
-To create and manage the Groups with which you will use to manage users' settings, click on the "Groups" link in the Authorization Dashboard.
+To create and manage the Groups with which you will manage users' settings, click on the "Groups" link in the Authorization Dashboard.
 
 When creating a Group, you will provide a **name** for the group, as well as a **description** of what that Group does.
 
